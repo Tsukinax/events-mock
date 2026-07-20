@@ -43,6 +43,17 @@
       "time": "09:00",
       "petsAllowed": false,
       "organizer": "Ada Lovelace"
+    },
+     {
+      "id": 7391045,
+      "category": "education tsukina",
+      "title": "Coding Workshop tsukina",
+      "description": "Learn to build web apps with Vue. tsukina",
+      "location": "Bangkok tsukina",
+      "date": "August 15, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Ada Lovelace"
     }
   ]
 }
