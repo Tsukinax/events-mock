@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 7391045,
+      "category": "education",
+      "title": "Coding Workshop",
+      "description": "Learn to build web apps with Vue.",
+      "location": "Bangkok",
+      "date": "August 15, 2022",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Ada Lovelace"
     }
   ]
 }
